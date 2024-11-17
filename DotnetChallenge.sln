@@ -17,6 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotnetChallenge.Persistence
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{C1F039A7-C529-4585-A568-D7591B4BA113}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SqlScript", "SqlScript", "{CF58CEA1-C8CA-4A90-B7F1-BEC49F08C147}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Documents\script.sql = ..\..\..\OneDrive\Documents\script.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
