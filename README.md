@@ -14,5 +14,4 @@
 - **Taşıyıcı Yönetimi**: Taşıyıcılar ve taşıyıcı konfigürasyonları üzerinde CRUD işlemleri yapılabilir.
 - **Sipariş Yönetimi**: Siparişlerin oluşturulması, güncellenmesi ve silinmesi işlemleri desteklenir.
 - **Maliyet Hesaplama**: Sipariş desi değerine göre taşıyıcı maliyetlerinin hesaplanması sağlanır.
-- **Raporlama**: Taşıyıcılar için raporlar düzenli olarak oluşturulabilir ve izlenebilir.
 - **Arka Plan Görevleri**: Raporlama işlemleri gibi zaman alıcı görevler arka planda **Hangfire** ile yönetilmektedir.
